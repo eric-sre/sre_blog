@@ -2,8 +2,8 @@
 
 As an engineer, I have never quite felt I fit in. Until I discovered SRE work.
 
-1. d
-2. Next Paper - The ideal SRE team.
+1. Why are SRE's important?
+2. Next Post - Hiring SREs.
 
 
 
