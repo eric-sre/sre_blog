@@ -6,6 +6,8 @@ As an engineer, I have never quite felt I fit in. Until I discovered SRE work.
 2. SRE: Toil Managment (an art).
 3. SRE: Future of SRE
 4. SRE: Incident Lifecycle
+5. SRE: Service Availability Mathematics
+
 3. Next Post - Hiring SREs.
 4. SRE Mathematics
 
