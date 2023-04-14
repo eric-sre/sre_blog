@@ -8,6 +8,7 @@ As an engineer, I have never quite felt I fit in. Until I discovered SRE work.
 4. SRE: Incident Lifecycle
 5. SRE: Service Availability Mathematics
 6. SRE: Strategy Must Haves..... Items worth considering including in your SRE strategy.
+7. SRE: Puzzle 3 Part
 
 3. Next Post - Hiring SREs.
 4. SRE Mathematics
