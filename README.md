@@ -9,9 +9,9 @@ Brain work good?
 6. SRE: Strategy Must Haves..... Items worth considering including in your SRE strategy.
 7. SRE: Puzzle 3 Part
 8. SRE: Cost of Failure
+9. SRE: Highest ROI Activity
 
-3. Next Post - Hiring SREs.
-4. SRE Mathematics
+
 
 
 
