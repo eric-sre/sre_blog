@@ -10,7 +10,7 @@ Brain work good?
 7. SRE: Puzzle 3 Part
 8. SRE: Cost of Failure
 9. SRE: Highest ROI Activity
-
+10. SRE: When should i stop deploying?
 
 
 
