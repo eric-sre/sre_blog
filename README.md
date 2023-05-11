@@ -11,7 +11,7 @@ Brain work good?
 8. SRE: Cost of Failure
 9. SRE: Highest ROI Activity
 10. SRE: When should i stop deploying?
-
+11. SRE: Application Strength
 
 
 
