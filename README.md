@@ -12,7 +12,7 @@ Brain work good?
 9. SRE: Highest ROI Activity
 10. SRE: When should i stop deploying?
 11. SRE: Application Strength
-
+12. SRE: Value streams and the "funnel"
 
 
 My SRE blog. All opinions are my own.
