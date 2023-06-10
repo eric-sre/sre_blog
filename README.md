@@ -13,6 +13,6 @@ Brain work good?
 10. SRE: When should i stop deploying?
 11. SRE: Application Strength
 12. SRE: Value streams and the "funnel"
-
+13. SRE: FBI, Dr’s, and Scientists 
 
 My SRE blog. All opinions are my own.
